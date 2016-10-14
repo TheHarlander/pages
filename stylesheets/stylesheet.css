@@ -217,11 +217,7 @@ hr {
 /**
  * Contain overflow in all browsers.
  */
-#container{
-  min-height:1000px;
-  background:transparent url(../images/darkestBackground.jpg) 50% 0 no-repeat;
-  background-repeat: repeat-y;
-}
+
 pre {
   overflow: auto;
 }
@@ -439,7 +435,7 @@ body {
   color: #666;
 
   background-image: url(../images/white.png);
-  background-repeat: no-repeat;
+
   background-attachment: fixed;
 }
 
@@ -531,7 +527,7 @@ a.button {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
-  color: #ff0000;
+  color: #FFFFFF;
 }
 a.button small {
   display: block;
