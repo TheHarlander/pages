@@ -217,7 +217,11 @@ hr {
 /**
  * Contain overflow in all browsers.
  */
-
+#container{
+  min-height:1000px;
+  background:transparent url() 50% 0 no-repeat;
+  background-repeat: repeat-y;
+}
 pre {
   overflow: auto;
 }
