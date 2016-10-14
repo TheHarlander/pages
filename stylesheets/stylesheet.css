@@ -219,7 +219,7 @@ hr {
  */
 #container{
   min-height:1000px;
-  background:transparent url() 50% 0 no-repeat;
+  background:transparent url(https://github.com/TheHarlander/pages/blob/master/images/white.png) 50% 0 no-repeat;
   background-repeat: repeat-y;
 }
 pre {
